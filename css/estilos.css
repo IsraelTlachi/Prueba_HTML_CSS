@@ -1,0 +1,33 @@
+body {
+    padding: 0;
+    marging: 0;
+}
+
+div {
+    margin: 0;
+    padding: 0;
+    background-color: dimgray;
+}
+ul {
+    list-style-type: none;
+    width:80%;
+    padding: 1em;
+    margin: 1em;
+    overflow: hidden;
+    margin:auto;
+    
+}
+
+li {
+    width: 25%;
+    float: left
+}
+
+li a {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    margin: auto;
+    background-color: darkblue;
+    color: white;
+}
