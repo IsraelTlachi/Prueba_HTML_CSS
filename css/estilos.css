@@ -3,7 +3,7 @@ body {
     marging: 0;
 }
 
-div {
+#nav {
     margin: 0;
     padding: 0;
     background-color: dimgray;
